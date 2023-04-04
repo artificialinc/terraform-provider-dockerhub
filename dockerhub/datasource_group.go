@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	dh "github.com/BarnabyShearer/dockerhub/v2"
+	dh "github.com/artificialinc/dockerhub/v2"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )

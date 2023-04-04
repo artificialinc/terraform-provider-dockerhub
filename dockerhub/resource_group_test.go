@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	dh "github.com/BarnabyShearer/dockerhub/v2"
+	dh "github.com/artificialinc/dockerhub/v2"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"
 )
